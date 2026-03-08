@@ -45,7 +45,9 @@ db:List[dict] = [{
 ]
 
 #creat endpoints:
-
+@app.get("/")
+def root():
+    return {"msg":"Library API is running!"}
 #book add post creat
 
 @app.post("/books")
