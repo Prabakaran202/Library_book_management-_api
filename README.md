@@ -4,9 +4,9 @@ A REST API built with FastAPI for managing library books.
 
 ## 🚀 Live Demo
 
-- **Backend API:** [https://library-api.onrender.com](https://library-api.onrender.com)
-- **Frontend:** [https://library-app.netlify.app](https://library-app.netlify.app)
-- **API Docs:** [https://library-api.onrender.com/docs](https://library-api.onrender.com/docs)
+- **Backend API:** [https://library-api-mc2s.onrender.com](https://library-api-mc2s.onrender.com)
+- **Frontend:** [https://library-book-management-api.vercel.app/](https://library-book-management-api.vercel.app/)
+- **API Docs:** [https://library-api-mc2s.onrender.com/docs](https://library-api-mc2s.onrender.com/docs)
 
 ---
 
