@@ -18,7 +18,7 @@ A REST API built with FastAPI for managing library books.
 | Pydantic | Data Validation |
 | HTML + JavaScript | Frontend |
 | Render.com | Backend Hosting |
-| Netlify | Frontend Hosting |
+| versel| Frontend Hosting |
 
 ---
 
